@@ -1,4 +1,4 @@
-# OdinTest
+# Odin-recipes
 Odin-recipes
 This mini project will only use simple html and make us practice those new skills we have learned.
 
